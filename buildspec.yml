@@ -27,3 +27,4 @@ artifacts:
   files:
     - index.js
     - package.json
+    - buildspec.yml
